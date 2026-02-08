@@ -117,3 +117,7 @@ The project follows the Medallion Architecture:
 
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/12581b60-be39-41c4-810f-1573ec911886" />
 
+
+
+
+Next steps will be update soon.....
